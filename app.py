@@ -18,7 +18,7 @@ def main():
     st.title("Pramana Chat App")
 
     # Display an image at the top of the app
-    st.image(r"C:\Users\kudsit\Downloads\Groq-Chat-App-main\Groq-Chat-App-main\image\download.png", 
+    st.image(r"C:\Users\kudsit\Downloads\Chat-App-main\chatbot\image\download.png", 
              caption="Welcome to the Pramana Chat App", use_container_width=True)
 
     # Add customization options to the sidebar
